@@ -1,16 +1,26 @@
-## Hi there 👋
+Builder focused on apps, automation, and software for real problems.
 
-<!--
-**Metoneta/Metoneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on Void 2.0, small experimental products, and tools around productivity, time tracking and investing.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Project
+
+* **Void 2.0** — App to Save it ALL. Coming soon...
+
+### Products
+
+* **Flaud** — Experimental product currently in development. **SMALL APP**
+* **Liability / Compound** — Experimental product currently in development. long-term TIME investment.
+
+
+### Small Projects
+
+* **UI Prototypes** — Brand UI in development
+
+## About
+
+* I’m looking to help with **scaling apps, improving UI/UX, and shipping better products**.
+* 📫 How to reach me:
+
+**I like making complicated things feel simple.**
