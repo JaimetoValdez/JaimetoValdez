@@ -1,12 +1,12 @@
 Builder focused on apps, automation, and software for real problems.
 
-Currently working on Void 2.0, small experimental products, and tools around productivity, time tracking and investing.
+Currently working on TheVoid , small experimental products, and tools around productivity, time tracking and investing.
 
 ## Current Projects
 
 ### Main Project
 
-* **Void 2.0** — App to Save it ALL. Coming soon...
+* **TheVoid** — App to Save it ALL.
 
 ### Products
 
