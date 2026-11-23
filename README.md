@@ -1,5 +1,1 @@
-I build local-first apps and practical tools for personal systems, work, and content.
-
-My current focus is TheVoid: a desktop app for saving and viewing personal content without depending on a server.
-
-I care about software that feels clear, private, and useful in daily life.
+I build apps I want to use every day. Right now I’m working on **Krokeme**, an app for saving and finding the things I want to keep.
